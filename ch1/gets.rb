@@ -1,0 +1,2 @@
+puts "enter name"
+gets

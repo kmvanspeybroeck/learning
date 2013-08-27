@@ -1,0 +1,2 @@
+puts 'blink ' * 4
+
